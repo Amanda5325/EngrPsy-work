@@ -1,4 +1,11 @@
-# EngrPsy-work
+# EngrPsy work
+
+所有的录屏作业以及附9篇精读文献皆上传至百度云盘
+
+总文件夹链接: [百度云](https://pan.baidu.com/s/1RlUV9BoMWdOGJvHdSJ9SOg)  密码: c2qk
+
+![image.gif](https://i.loli.net/2021/01/07/OCHrUykBnX3WTde.png)
+
 
 ## homework1 工具时间甘特图制作
 时间线工具————甘特图（Gantt chart）：通过条状图来显示项目，进度，和其他时间相关的系统进展的内在关系随着时间进展的情况。
