@@ -4,8 +4,6 @@
 
 总文件夹链接: [百度云](https://pan.baidu.com/s/1RlUV9BoMWdOGJvHdSJ9SOg)  密码: c2qk
 
-![baiduyun.png](https://i.loli.net/2021/01/07/rO9oKS6spgq8DW4.png)
-
 ## homework1 工具时间甘特图制作
 时间线工具————甘特图（Gantt chart）：通过条状图来显示项目，进度，和其他时间相关的系统进展的内在关系随着时间进展的情况。
 - 作品链接: [百度云](https://pan.baidu.com/s/13YZjtP--3oylR-Kmp4CZXw) 密码: 7bo0
